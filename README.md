@@ -2,6 +2,6 @@
 
 set of recipes as given by my grandma
 
-* Pizas (TODO)
+* Pizas 
 * Saues (TODO)
 * reads (TODO)
